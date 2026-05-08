@@ -11,7 +11,7 @@ const Page = () => {
         height={300}
         width={300}
         loading="eager"
-        className="m-6 h-auto w-[300px] object-cover"
+        className="m-6 h-auto w-75 object-cover"
       />
       <SignInFormClient />
     </>
